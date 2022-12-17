@@ -1,0 +1,16 @@
+:root{
+    --bgPrincipale: #202D3B;
+    --bgCard: #303a46;
+}
+
+header{
+    background-color: var(--bgCard);
+}
+
+body{
+    background-color: var(--bgPrincipale);
+}
+
+.card{
+    background-color: var(--bgCard);
+}
